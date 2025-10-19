@@ -31,8 +31,6 @@ Built software currently used by Genentech, formerly used by Department of Defen
 [View project →](./dissolution_package)
 
 
-[View project →](./forecasting_demo)
-
 
 
 ---
