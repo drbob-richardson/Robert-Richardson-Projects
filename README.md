@@ -8,7 +8,7 @@ This portfolio highlights active projects demonstrating applied research.
 ##  Agentic AI Evaluation Pipeline
 Developed LLM-based evaluation and orchestration framework for automated underwriting decision support for the Casualty Actuarial Society. Using LangChain, Python, AWS Lambda, OpenAI, NLP to demonstrate the power of AI Agents in automated workflows. Trying to educate the masses on the difference between automation, vanilla LLMs, and LLMs within automation for extra powerful workflows. 
 
-[View project →](./agentic_ai_eval)
+[View project →](./Robert-Richardson-Projects-agentic_ai_eval)
 
 
 ##  Healthcare & Mortality Forecasting
