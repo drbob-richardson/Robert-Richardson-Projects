@@ -28,7 +28,7 @@ Built hierarchical Bayesian models to understand the impact of regional variatio
 ##  Software Development and Usage
 Built software currently used by Genentech, formerly used by Department of Defense and National Oceanic and Atmospheric Administration, and have 1 package pending on software development for general network security models. 
 
-[View project →](./dissolution_package)
+[View project →](./software)
 
 
 
