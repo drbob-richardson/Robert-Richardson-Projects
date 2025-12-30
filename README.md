@@ -5,6 +5,14 @@ This portfolio highlights active projects demonstrating applied research.
 
 ---
 
+##  NL2SQL Analytics Studio
+
+ This is a prototype used to show companies how to build their own local analytics studios. A deployed-style analytics application that lets users upload their own datasets, ask questions in natural language, generate read-only SQL, run queries safely, create plots, and maintain a reproducible analysis history with monitoring. Uses DuckDB and SGLlite as well as a chat feature built on langchain with agent calls to connect to SQL or to a RAG style information retrieval when necessary. Demonstrates model deployment and monitoring capability.
+
+[View project →](https://github.com/drbob-richardson/nl2sql_analytics_studio)
+
+---
+
 ##  Agentic AI Evaluation Pipeline
 Developed LLM-based evaluation and orchestration framework for automated underwriting decision support for the Casualty Actuarial Society. Using LangChain, Python, AWS Lambda, OpenAI, NLP to demonstrate the power of AI Agents in automated workflows. Trying to educate the masses on the difference between automation, vanilla LLMs, and LLMs within automation for extra powerful workflows. 
 
